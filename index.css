@@ -1,0 +1,25 @@
+p{
+    font-size: large;
+}
+
+#footer{
+    background-color: rgb(110, 109, 109);
+}
+
+#formulario{
+    color: white;
+    text-decoration: none;
+}
+
+#colornavbar{
+    background-color: rgb(206, 206, 206);
+}
+
+#navbar{
+    background-color: rgb(206, 206, 206);
+    color: black;
+}
+
+#titulo{
+    color: red;
+}
